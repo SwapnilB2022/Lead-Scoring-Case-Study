@@ -12,4 +12,4 @@ Jupyter Notebook:
 https://github.com/SwapnilB2022/Lead-Scoring-Case-Study/blob/main/01_Lead_Scoring_Python_SwapnilB.ipynb
 
 Analysis, Model Building, Conclusion and Reccomendation:
-https://github.com/SwapnilB2022/Lead-Scoring-Case-Study/blob/main/01_Lead_Scoring_Python_SwapnilB.ipynb
+https://github.com/SwapnilB2022/Lead-Scoring-Case-Study/blob/main/02_Leads%20Scoring_PPT.pdf
