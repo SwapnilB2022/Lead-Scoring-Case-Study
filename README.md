@@ -7,3 +7,9 @@ An education company named X Education sells online courses to industry profesAs
 
 To identify the features that contributes to predict Lead Conversion.
 Identifying Hot Leads by generating Lead Score for all leads, so that leads having higher Lead Scores can be contacted with priority for achieving Higher Lead Conversion Rate.
+
+Jupyter Notebook:
+https://github.com/SwapnilB2022/Lead-Scoring-Case-Study/blob/main/01_Lead_Scoring_Python_SwapnilB.ipynb
+
+Analysis, Model Building, Conclusion and Reccomendation:
+https://github.com/SwapnilB2022/Lead-Scoring-Case-Study/blob/main/01_Lead_Scoring_Python_SwapnilB.ipynb
